@@ -8,6 +8,7 @@ public class test {
 		String aa = "¿¡·¯";
 		System.out.println(aa);
 		System.out.println(mid+aa);
+		String a="hohohohohoho";
 	}
 
 }
