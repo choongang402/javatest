@@ -6,6 +6,8 @@ public class test {
 		String mid = "이희우";
 		System.out.println(mid);
 		String aa = "에러";
+		System.out.println(aa);
+		System.out.println(mid+aa);
 	}
 
 }
