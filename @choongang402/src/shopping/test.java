@@ -9,6 +9,7 @@ public class test {
 		System.out.println(aa);
 		System.out.println(mid+aa);
 		String a="hohohohohoho";
+		String bb= "connect";
 	}
 
 }
